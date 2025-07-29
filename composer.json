@@ -1,0 +1,9 @@
+{
+    "name": "poh000/task_poo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
