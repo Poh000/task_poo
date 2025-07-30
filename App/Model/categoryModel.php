@@ -87,3 +87,4 @@ function categoryExists(string $name) : bool {
     }
     return true;
 }
+
